@@ -24,11 +24,7 @@ body{
 span{
 	color: #8e1a1a;
 }
-#sign{
-    position: right;
-    font-style: italic;
-    font-weight: bold;
-}
+
 @media screen and (min-width:300px){
 	body{
 		background-size: 150% 25%;
@@ -54,6 +50,11 @@ span{
 		text-align: center;
 		background-color: #000000;
 	}
+	#sign{
+                position: right;
+                font-style: italic;
+                font-weight: bold;
+             }
 	/* #img{ */
 		/* background-color:##dad3d3; */
 	/* } */
