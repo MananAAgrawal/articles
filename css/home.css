@@ -1,0 +1,11 @@
+body{
+	background-image: url("https://i.pinimg.com/originals/04/d4/50/04d45030af00b248e9cf11c9e9f0021c.gif");
+	background-repeat: no-repeat;
+	background-size: 100% 480%;
+	background-position: top;
+	font-size: large;
+}
+
+li{
+	font-weight: bold;
+}
