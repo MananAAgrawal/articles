@@ -42,6 +42,7 @@ body{
 	}
 	section{
 		flex: 1;
+		color:#1e7e34;
 	}
 	footer{
 		text-align: center;
