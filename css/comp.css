@@ -48,6 +48,12 @@ body{
 		text-align: center;
 		background-color: #000000;
 	}
+	#sign{
+                position: relative;
+		right: -1190px;
+                font-style: italic;
+                font-weight: bold;
+             }
 	/* #img{ */
 		/* background-color:##dad3d3; */
 	/* } */
