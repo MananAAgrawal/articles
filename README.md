@@ -1,2 +1,2 @@
-# inventions
-My Articles on inventions
+# articles
+My Articles
